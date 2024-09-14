@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "newsqliteapp"
+rootProject.name = "tictactoe"
 include(":app")
  
