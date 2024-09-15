@@ -1,1 +1,15 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="weight">Enter your weight (kg)</string>
+    <string name="Height_ft">Enter your height (ft)</string>
+    <string name="Height_in">Enter your height (in)</string>
+    <string name="cal_bmi">Calculate BMI</string>
+    <string name="overweight">You are Overweight</string>
+    <string name="underweight">You are Underweight</string>
+    <string name="healthy">You are Healthy</string>
+    <color name="colourUw">#0000FF</color> <!-- Blue color for underweight -->
+    <color name="colourOw">#FF0000</color> <!-- Red color for overweight -->
+    <color name="colourHlthy">#00FF00</color> <!-- Green color for healthy -->
 
+
+</resources>
